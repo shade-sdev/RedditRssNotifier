@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RssNotifyer", "RssNotifyer\RssNotifyer.vbproj", "{937ED0DD-BE58-4F92-AB11-30B3C7F5D1AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{937ED0DD-BE58-4F92-AB11-30B3C7F5D1AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937ED0DD-BE58-4F92-AB11-30B3C7F5D1AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937ED0DD-BE58-4F92-AB11-30B3C7F5D1AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937ED0DD-BE58-4F92-AB11-30B3C7F5D1AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5623DFB0-268A-42BA-AA5D-44892B3E8823}
+	EndGlobalSection
+EndGlobal
