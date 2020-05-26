@@ -3,10 +3,11 @@ Extract and open Config.ini
 
 STARTUP
 
-Set startup=1 if you want the program to run on startup save and run program as admin
-If the program runs on startup and you want to remove it from startup, set startup=0 save and run program as admin
+1. Making the program run on startup [startup=1]
+2. Removing the program from startup [startup=0]
+
+Note: If you changed values for startup, you need to run the program as administrator
 
 SUBREDDIT URL
 
-Copy your subreddit URL and paste it in Config.ini like so:
-subredditurl=yoursubredditurl
+1. Setting SubReddit URL [subredditurl=subredditurl]
